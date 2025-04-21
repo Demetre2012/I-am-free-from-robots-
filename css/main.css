@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+}
+
+.button {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: white;
+    background-color: greenyellow;
+    border: solid black;
+    border-radius: 0%;
+    padding: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: 31%;
+    position: absolute;
+    font-size: 100px;
+}
